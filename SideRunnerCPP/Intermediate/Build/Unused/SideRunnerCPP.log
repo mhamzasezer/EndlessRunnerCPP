@@ -1,0 +1,6 @@
+﻿  Building SideRunnerCPPEditor...
+  Using Visual Studio 2019 14.35.32217 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 1 action with 24 processes...
+    [1/1] SideRunnerCPPEditor.target
+  Total time in Parallel executor: 0.09 seconds
+  Total execution time: 0.37 seconds

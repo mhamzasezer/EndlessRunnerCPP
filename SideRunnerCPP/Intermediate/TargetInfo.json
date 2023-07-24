@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SideRunnerCPP",
+			"Path": "C:\\Users\\mhamz\\Desktop\\Unreal\\SideRunnerCPP\\Source\\SideRunnerCPP.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SideRunnerCPPEditor",
+			"Path": "C:\\Users\\mhamz\\Desktop\\Unreal\\SideRunnerCPP\\Source\\SideRunnerCPPEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
